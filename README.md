@@ -1,4 +1,4 @@
-### Hi there (^_^)/
+#### Hi there (^.^)/
 I am Chi. I'm currently learning Business Intelligence and Analytics and hope to become a data professional soon.
 Feel free to take a look at my highlighted projects below 👇
 
