@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there (^_^)/
+I am Chi. I'm currently learning Business Intelligence and Analytics and hope to become a data professional soon.
+Feel free to take a look at my highlighted projects below 👇
 
 <!--
 **chipanpan/chipanpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
