@@ -1,5 +1,5 @@
 #### Hi there (^.^)/
-I am Chi. I'm currently learning Business Intelligence and Analytics and hope to become a data professional soon.
+I am Chi. I'm a Master's student in Business Intelligence and Analytics. I have been into coding for a while but only decided to take a step forward to become a data professional a year ago.
 Feel free to take a look at my highlighted projects below 👇
 
 <!--
